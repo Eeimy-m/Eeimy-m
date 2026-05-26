@@ -2,5 +2,5 @@
 
 **``Estudante de Engenharia de Software``**
 
-Meu nome é Elisa Eimy Miura e no momento estou cursando o segundo período de Engenharia de Software no IFSP campus São Carlos.
-Por agora, já tive pequenos projetos com python, html, css, C, C# e JavaScript.
+Olá! Eu sou a Elisa e sou estudante do Bacharelado em Engenharia de Software.
+Por agora, já tive pequenos projetos com python, html, css, C, C#, JavaScript e Java, sendo que a maioria dos projetos acadêmicos desenvolvidos por mim estão aqui no GitHub. 
